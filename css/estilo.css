@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,500;1,400&family=Poppins:ital,wght@0,500;0,700;1,400&family=Roboto:ital,wght@0,300;0,400;0,500;1,100;1,300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-family: Montserrat, sans-serif;
+}
+
+h1 {
+  color: #fff;
+  background-color: #dd2d91;
+  font-family: Montserrat, sans-serif;
+}
+
+h2 {
+  color: #dd2d91;
+  border: 1px solid #dd2d91;
+}
+
+h3 {
+  border: 3px solid #dd2d91;
+}
+
+.card {
+  display: block;
+  padding: 20px;
+  box-shadow: 2px 2px #6e6e6e;
+}
+.card .card-title {
+  color: green;
+}
+.card .card-body {
+  color: lime;
+}
+.card a {
+  color: cyan;
+}
+
+/*# sourceMappingURL=estilo.css.map */
